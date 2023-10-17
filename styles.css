@@ -1,0 +1,95 @@
+[target] {color: rgb(235, 64, 12);
+
+}
+
+
+
+body {
+  margin: 0;
+}
+
+
+
+
+
+.topnav {
+  overflow: hidden;
+  background-color: #333;
+}
+
+
+.topnav a {
+  font-family: Tahoma, Verdana, sans-serif;
+  float: left;
+  display: block;
+  color: #b95b43;
+  text-align: center;
+  padding: 14px 100px;
+  padding-left: 5%;
+  text-decoration: none;
+  
+}
+
+
+.topnav a:hover {
+  background-color: rgb(82, 150, 170);
+  color: black;
+  
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.header {
+    background-color: rgba(230, 192, 89, 0.767);
+    background-image:url("banner2.jpg");
+    text-align: center;
+    padding: 20px;
+ 
+  
+  }
+
+
+
+
+
+
+
+
+
+body {background-color: bisque;}
+.punainen {color: crimson;}
+
+h1 {color: rgb(22, 131, 122);
+    font-size: 40px; }
+
+    p, ol{
+        color: rgb(12, 2, 2);
+
+
+    }
+
+
+.teksti{ font-family: Tahoma, Verdana, sans-serif;
+  padding-left: 50px;
+}
+
+.kuvat{
+
+  padding-left: 30%;
+}
